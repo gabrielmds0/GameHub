@@ -1,0 +1,17 @@
+C:\Users\gabri\source\repos\GameHub\GameHub\bin\Debug\net6.0\GameHub.exe
+C:\Users\gabri\source\repos\GameHub\GameHub\bin\Debug\net6.0\GameHub.deps.json
+C:\Users\gabri\source\repos\GameHub\GameHub\bin\Debug\net6.0\GameHub.runtimeconfig.json
+C:\Users\gabri\source\repos\GameHub\GameHub\bin\Debug\net6.0\GameHub.dll
+C:\Users\gabri\source\repos\GameHub\GameHub\bin\Debug\net6.0\GameHub.pdb
+C:\Users\gabri\source\repos\GameHub\GameHub\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gabri\source\repos\GameHub\GameHub\obj\Debug\net6.0\GameHub.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\GameHub\GameHub\obj\Debug\net6.0\GameHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\GameHub\GameHub\obj\Debug\net6.0\GameHub.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\GameHub\GameHub\obj\Debug\net6.0\GameHub.AssemblyInfo.cs
+C:\Users\gabri\source\repos\GameHub\GameHub\obj\Debug\net6.0\GameHub.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\GameHub\GameHub\obj\Debug\net6.0\GameHub.csproj.CopyComplete
+C:\Users\gabri\source\repos\GameHub\GameHub\obj\Debug\net6.0\GameHub.dll
+C:\Users\gabri\source\repos\GameHub\GameHub\obj\Debug\net6.0\refint\GameHub.dll
+C:\Users\gabri\source\repos\GameHub\GameHub\obj\Debug\net6.0\GameHub.pdb
+C:\Users\gabri\source\repos\GameHub\GameHub\obj\Debug\net6.0\GameHub.genruntimeconfig.cache
+C:\Users\gabri\source\repos\GameHub\GameHub\obj\Debug\net6.0\ref\GameHub.dll
