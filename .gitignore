@@ -1,0 +1,5 @@
+# Build output and IDE state
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
